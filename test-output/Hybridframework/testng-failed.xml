@@ -6,10 +6,11 @@
     <classes>
       <class name="com.inetbank.testcases.TC_LoginTest_001">
         <methods>
-          <include name="cLoginTest1"/>
+          <include name="LoginTest"/>
           <include name="teardown"/>
           <include name="setup"/>
-          <include name="bLoginTest2"/>
+          <include name="LoginTest2"/>
+          <include name="LoginTest1"/>
         </methods>
       </class> <!-- com.inetbank.testcases.TC_LoginTest_001 -->
     </classes>

@@ -35,6 +35,8 @@ public class BaseClass {
 				driver=new ChromeDriver();
 				driver.manage().window().maximize();
 			}
+		
+		//Sucessfully Launched Chrome Browser
 		else if (browser.equals("firefox"))
 			{
 			System.setProperty("webdriver.gecko.driver",Rc.getfirfoxdriverpath());
