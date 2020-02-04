@@ -18,7 +18,7 @@ public class TC_LoginTest_001 extends BaseClass
 		lp.ClickSubmit();
 		
 /* 
- * Sucessfully Logged  By Ravi
+ * Sucessfully Logged  By Ravi Sankar Kondala Rao
  */
 		
 	//Validations
